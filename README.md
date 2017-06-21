@@ -24,7 +24,7 @@ Put an 'x' in the square brackets once your Improvement is completed.
 	* The bombs should look lit
 	* Explosion animation and sound when the ball touches the ground
 - [] The ball keeps moving in the direction of key press, make it decelerate; if you've already added the deceleration then make it decelerate more quickly.
-- [] A buried enemy won't do any harm. Very considerate of you to take care of that the user will not have to worry about the enemy, but they LOVE adventure, beleive it.
+- [] A buried enemy won't do any harm. Very considerate of you to take care of it in a way that the user will not have to worry about the enemy, but they LOVE adventure, believe it.
 	* <img src = "https://github.com/jbnerd/unity-first-game/blob/master/BouncyTales%2021-06-2017%2010_56_18.png">
 
 - More shall be coming up soon!!!
