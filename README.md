@@ -16,7 +16,7 @@ Put an 'x' in the square brackets once your Improvement is completed.
 - [] Restrict the lives to a finite number. (You can also keep some '1 ups' to add to your lives)
 - [x] Smoothen up the grass.
 - [x] The ball doesn't look very blended with the background, do something about it.
-- [] The ball seems like it's floating or hovering above the ground, make it touch the ground. Here is how it looks.
+- [x] The ball seems like it's floating or hovering above the ground, make it touch the ground. Here is how it looks.
 	* <img src = "https://github.com/jbnerd/unity-first-game/blob/master/BouncyTales%2021-06-2017%2010_48_18.png">
 - [] The adversary that you've added seems to get stuck below the right side stair, I don't know why that is happening. Also see if you can make it move in a wavy manner. (sort of like a sine curve)
 - [] Add animations:
