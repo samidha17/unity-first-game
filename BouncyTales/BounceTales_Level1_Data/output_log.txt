@@ -1,4 +1,12 @@
-Initialize engine version: 5.6.0f3 (497a0f351392)
+Mono path[0] = 'C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/BounceTales_Level1_Data/Managed'
+Mono path[1] = 'C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/BounceTales_Level1_Data/Mono'
+Mono config path = 'C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/BounceTales_Level1_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/BounceTales_Level1_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55463
+Multi-casting "[IP] 192.168.43.208 [Port] 55463 [Flags] 2 [Guid] 3097296946 [EditorId] 578834945 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-Q01JBA9) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55463]
+PlayerConnection already initialized - listening to [0.0.0.0:55463]
+Player data archive not found at `C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/BounceTales_Level1_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.0f3 (497a0f351392)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
@@ -7,48 +15,34 @@ Direct3D:
     VRAM:     3072 MB
     Driver:   10.18.13.5354
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Public\Documents\Unity Projects\BouncyTales\BounceTales_Level1_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Public\Documents\Unity Projects\BouncyTales\BounceTales_Level1_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Public\Documents\Unity Projects\BouncyTales\BounceTales_Level1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Public\Documents\Unity Projects\BouncyTales\BounceTales_Level1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Public\Documents\Unity Projects\BouncyTales\BounceTales_Level1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Public\Documents\Unity Projects\BouncyTales\BounceTales_Level1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Public\Documents\Unity Projects\BouncyTales\BounceTales_Level1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Public\Documents\Unity Projects\BouncyTales\BounceTales_Level1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.061 seconds
-Platform assembly: C:\Users\Public\Documents\Unity Projects\BouncyTales\BounceTales_Level1_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Public\Documents\Unity Projects\BouncyTales\BounceTales_Level1_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\BounceTales_Level1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\BounceTales_Level1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\BounceTales_Level1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\BounceTales_Level1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\BounceTales_Level1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\BounceTales_Level1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\BounceTales_Level1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\BounceTales_Level1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.059 seconds
+Platform assembly: C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\BounceTales_Level1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\BounceTales_Level1_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 4.179346 ms
+UnloadTime: 3.152585 ms
 Player Respawn
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+LevelManager:RespawnPlayer() (at C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\Assets\Scripts\LevelManager.cs:26)
+KillPlayer:OnTriggerEnter2D(Collider2D) (at C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\Assets\Scripts\KillPlayer.cs:22)
  
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Player Respawn
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Player Respawn
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Player Respawn
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Player Respawn
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Player Respawn
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+(Filename: C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/Assets/Scripts/LevelManager.cs Line: 26)
 
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 1914 -> priority: 1 
-  Thread -> id: 17b8 -> priority: 1 
-  Thread -> id: 2e28 -> priority: 1 
-  Thread -> id: 1f34 -> priority: 1 
+  Thread -> id: 26e0 -> priority: 1 
+  Thread -> id: 2bc0 -> priority: 1 
+  Thread -> id: 2004 -> priority: 1 
+  Thread -> id: 8d0 -> priority: 1 
