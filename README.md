@@ -20,9 +20,9 @@ Put an 'x' in the square brackets once your Improvement is completed.
 	* <img src = "https://github.com/jbnerd/unity-first-game/blob/master/BouncyTales%2021-06-2017%2010_48_18.png">
 - [] The adversary that you've added seems to get stuck below the right side stair, I don't know why that is happening. Also see if you can make it move in a wavy manner. (sort of like a sine curve)
 - [] Add animations:
-	* Rotate the coins (a little sparkle would be honey upon the pancakes)
-	* The bombs should look lit
-	* Explosion animation and sound when the ball touches the ground
+	* [x] Rotate the coins (a little sparkle would be honey upon the pancakes)
+	* [x] The bombs should look lit
+	* [] Explosion animation and sound when the ball touches the ground
 - [] The ball keeps moving in the direction of key press, make it decelerate; if you've already added the deceleration then make it decelerate more quickly.
 - [] A buried enemy won't do any harm. Very considerate of you to take care of it in a way that the user will not have to worry about the enemy, but they LOVE adventure, believe it.
 	* <img src = "https://github.com/jbnerd/unity-first-game/blob/master/BouncyTales%2021-06-2017%2010_56_18.png">
