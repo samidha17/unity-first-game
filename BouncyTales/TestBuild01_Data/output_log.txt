@@ -2,10 +2,10 @@ Mono path[0] = 'C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/Test
 Mono path[1] = 'C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/TestBuild01_Data/Mono'
 Mono config path = 'C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/TestBuild01_Data/Mono/etc'
 PlayerConnection initialized from C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/TestBuild01_Data (debug = 0)
-PlayerConnection initialized network socket : 0.0.0.0 55193
-Multi-casting "[IP] 192.168.2.5 [Port] 55193 [Flags] 2 [Guid] 2706047977 [EditorId] 2318472766 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-Q01JBA9) [Debug] 0" to [225.0.0.222:54997]...
-Started listening to [0.0.0.0:55193]
-PlayerConnection already initialized - listening to [0.0.0.0:55193]
+PlayerConnection initialized network socket : 0.0.0.0 55451
+Multi-casting "[IP] 192.168.2.5 [Port] 55451 [Flags] 2 [Guid] 3780143753 [EditorId] 1176052660 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-Q01JBA9) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55451]
+PlayerConnection already initialized - listening to [0.0.0.0:55451]
 Player data archive not found at `C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/TestBuild01_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.0f3 (497a0f351392)
 GfxDevice: creating device client; threaded=1
 Direct3D:
@@ -23,7 +23,7 @@ Platform assembly: C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\T
 Loading C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\TestBuild01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\TestBuild01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\TestBuild01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.065 seconds
+- Completed reload, in  0.057 seconds
 Platform assembly: C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\TestBuild01_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\TestBuild01_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
