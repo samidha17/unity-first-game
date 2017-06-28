@@ -10,10 +10,12 @@ public class LevelManager : MonoBehaviour {
 
 	private PlayerController player;
 
+	public HealthManager healthManager;
+
 	// Use this for initialization
 	void Start () {
 		player = FindObjectOfType<PlayerController> ();
-
+		healthManager = FindObjectOfType<HealthManager> ();
 	}
 	
 	// Update is called once per frame

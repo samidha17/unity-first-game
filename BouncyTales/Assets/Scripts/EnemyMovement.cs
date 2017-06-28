@@ -6,8 +6,10 @@ public class EnemyMovement : MonoBehaviour {
 
 	public float moveSpeed;
 	public bool moveRight;
+	public bool moveUp;
 
 	public Transform wallCheck;
+	public Transform wallBox;
 	public float wallCheckRadius;
 	public LayerMask whatIsWall;
 	private bool hittingWall;
@@ -20,7 +22,7 @@ public class EnemyMovement : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		hittingWall = Physics2D.OverlapCircle (wallCheck.position, wallCheckRadius, whatIsWall);
+		hittingWall = Physics2D.OverlapBox (wallBox.position, wallBox.lossyScale, 90, whatIsWall);
 
 		if (hittingWall)
 			moveRight = !moveRight;
@@ -30,7 +32,19 @@ public class EnemyMovement : MonoBehaviour {
 			GetComponent<Rigidbody2D> ().velocity = new Vector2 (-moveSpeed, GetComponent<Rigidbody2D> ().velocity.y); 
 		} else {
 			GetComponent<Rigidbody2D> ().velocity = new Vector2 (moveSpeed, GetComponent<Rigidbody2D> ().velocity.y); 
-
 		}
+
+		if (moveUp) {
+
+			GetComponent<Rigidbody2D> ().velocity = new Vector2 (GetComponent<Rigidbody2D> ().velocity.x, moveSpeed); 
+		} else {
+			GetComponent<Rigidbody2D> ().velocity = new Vector2 (GetComponent<Rigidbody2D> ().velocity.x, moveSpeed); 
+		}
+
+
+
+
 	}
+
+
 }
