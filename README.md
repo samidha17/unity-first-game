@@ -13,7 +13,7 @@ Put an 'x' in the square brackets once your Improvement is completed.
 	* New Game
 	* High Scores (you'll have to save the high scores somewhere in the persistent memory)
 	* Quit
-- [] Restrict the lives to a finite number. (You can also keep some '1 ups' to add to your lives)
+- [x] Restrict the lives to a finite number. (You can also keep some '1 ups' to add to your lives)
 - [x] Smoothen up the grass.
 - [x] The ball doesn't look very blended with the background, do something about it.
 - [x] The ball seems like it's floating or hovering above the ground, make it touch the ground. Here is how it looks.
@@ -23,7 +23,7 @@ Put an 'x' in the square brackets once your Improvement is completed.
 	* [x] Rotate the coins (a little sparkle would be honey upon the pancakes)
 	* [x] The bombs should look lit
 	* [] Explosion animation and sound when the ball touches the ground
-- [] The ball keeps moving in the direction of key press, make it decelerate; if you've already added the deceleration then make it decelerate more quickly.
+- [x] The ball keeps moving in the direction of key press, make it decelerate; if you've already added the deceleration then make it decelerate more quickly.
 - [] A buried enemy won't do any harm. Very considerate of you to take care of it in a way that the user will not have to worry about the enemy, but they LOVE adventure, believe it.
 	* <img src = "https://github.com/jbnerd/unity-first-game/blob/master/BouncyTales%2021-06-2017%2010_56_18.png">
 
