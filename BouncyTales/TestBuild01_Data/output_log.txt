@@ -2,10 +2,10 @@ Mono path[0] = 'C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/Test
 Mono path[1] = 'C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/TestBuild01_Data/Mono'
 Mono config path = 'C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/TestBuild01_Data/Mono/etc'
 PlayerConnection initialized from C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/TestBuild01_Data (debug = 0)
-PlayerConnection initialized network socket : 0.0.0.0 55018
-Multi-casting "[IP] 192.168.2.5 [Port] 55018 [Flags] 2 [Guid] 1359131710 [EditorId] 2209897 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-Q01JBA9) [Debug] 0" to [225.0.0.222:54997]...
-Started listening to [0.0.0.0:55018]
-PlayerConnection already initialized - listening to [0.0.0.0:55018]
+PlayerConnection initialized network socket : 0.0.0.0 55332
+Multi-casting "[IP] 192.168.2.5 [Port] 55332 [Flags] 2 [Guid] 959084077 [EditorId] 2068454751 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-Q01JBA9) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55332]
+PlayerConnection already initialized - listening to [0.0.0.0:55332]
 Player data archive not found at `C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/TestBuild01_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.0f3 (497a0f351392)
 GfxDevice: creating device client; threaded=1
 Direct3D:
@@ -23,32 +23,9 @@ Platform assembly: C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\T
 Loading C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\TestBuild01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\TestBuild01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\TestBuild01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.059 seconds
+- Completed reload, in  0.058 seconds
 Platform assembly: C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\TestBuild01_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\TestBuild01_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 4.328292 ms
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 17.480282 ms
-System memory in use before: 17.5 MB.
-System memory in use after: 17.6 MB.
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 757.
-Total: 0.970665 ms (FindLiveObjects: 0.108246 ms CreateObjectMapping: 0.086518 ms MarkObjects: 0.755357 ms  DeleteObjects: 0.016592 ms)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.063405 ms
-System memory in use before: 18.2 MB.
-System memory in use after: 18.1 MB.
-
-Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 285.
-Total: 0.958814 ms (FindLiveObjects: 0.045827 ms CreateObjectMapping: 0.043456 ms MarkObjects: 0.404937 ms  DeleteObjects: 0.462221 ms)
-
-Setting up 4 worker threads for Enlighten.
-  Thread -> id: 92c -> priority: 1 
-  Thread -> id: 2d1c -> priority: 1 
-  Thread -> id: 1804 -> priority: 1 
-  Thread -> id: 29f0 -> priority: 1 
