@@ -7,7 +7,7 @@ Put an 'x' in the square brackets once your Improvement is completed.
 
 # Improvements
 
-- [] Add a background music track.
+- [x] Add a background music track.
 - [x] Add a Pause Menu which will have the following options in it:
 	* Resume Game
 	* New Game
