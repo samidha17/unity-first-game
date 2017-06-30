@@ -4,7 +4,19 @@
 Solve the tasks in the Improvements list one by one and push your changes to github with the relevant commits.
 Put an 'x' in the square brackets once your Improvement is completed.
 ```
+# Improvements - 2
 
+- [] Add highscore menu.
+- [] Adjust friction in such a way that the ball doesn't stick to the sides of the ground.
+- [] Add animations for ball for it to change when it rolls, gets hurt, etc.
+- [] End the first level.
+- [] Make two more levels.
+- [] Complete the mechanics of moving enemies.
+
+ * Ideas for levels: adding slopes, spikes, etc. Create different layouts for different levels.
+ * Bounce the ball once when the ball loses a life and then respawn it to the checkpoint.
+ 
+ 
 # Improvements
 
 - [x] Add a background music track.
