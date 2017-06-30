@@ -2,10 +2,10 @@ Mono path[0] = 'C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/Test
 Mono path[1] = 'C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/TestBuild01_Data/Mono'
 Mono config path = 'C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/TestBuild01_Data/Mono/etc'
 PlayerConnection initialized from C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/TestBuild01_Data (debug = 0)
-PlayerConnection initialized network socket : 0.0.0.0 55223
-Multi-casting "[IP] 192.168.2.5 [Port] 55223 [Flags] 2 [Guid] 1037653792 [EditorId] 3267499801 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-Q01JBA9) [Debug] 0" to [225.0.0.222:54997]...
-Started listening to [0.0.0.0:55223]
-PlayerConnection already initialized - listening to [0.0.0.0:55223]
+PlayerConnection initialized network socket : 0.0.0.0 55142
+Multi-casting "[IP] 192.168.2.5 [Port] 55142 [Flags] 2 [Guid] 2373636063 [EditorId] 640740672 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-Q01JBA9) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55142]
+PlayerConnection already initialized - listening to [0.0.0.0:55142]
 Player data archive not found at `C:/Users/asus/Documents/Github/unity-first-game/BouncyTales/TestBuild01_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.0f3 (497a0f351392)
 GfxDevice: creating device client; threaded=1
 Direct3D:
@@ -23,32 +23,32 @@ Platform assembly: C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\T
 Loading C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\TestBuild01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\TestBuild01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\TestBuild01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.060 seconds
+- Completed reload, in  0.063 seconds
 Platform assembly: C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\TestBuild01_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\asus\Documents\Github\unity-first-game\BouncyTales\TestBuild01_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 4.228737 ms
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 6.562760 ms
-System memory in use before: 18.1 MB.
-System memory in use after: 18.2 MB.
+UnloadTime: 4.109823 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.403345 ms
+System memory in use before: 26.3 MB.
+System memory in use after: 26.3 MB.
 
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 820.
-Total: 0.399012 ms (FindLiveObjects: 0.048592 ms CreateObjectMapping: 0.027259 ms MarkObjects: 0.315259 ms  DeleteObjects: 0.006716 ms)
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 821.
+Total: 0.464987 ms (FindLiveObjects: 0.055703 ms CreateObjectMapping: 0.032395 ms MarkObjects: 0.367012 ms  DeleteObjects: 0.007901 ms)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.224590 ms
-System memory in use before: 26.0 MB.
-System memory in use after: 26.0 MB.
+UnloadTime: 2.112788 ms
+System memory in use before: 26.8 MB.
+System memory in use after: 18.5 MB.
 
-Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 288.
-Total: 0.504098 ms (FindLiveObjects: 0.030419 ms CreateObjectMapping: 0.018172 ms MarkObjects: 0.182123 ms  DeleteObjects: 0.272197 ms)
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 287.
+Total: 1.620936 ms (FindLiveObjects: 0.026074 ms CreateObjectMapping: 0.018172 ms MarkObjects: 0.200296 ms  DeleteObjects: 1.374813 ms)
 
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 1c24 -> priority: 1 
-  Thread -> id: 1f4c -> priority: 1 
-  Thread -> id: 56c -> priority: 1 
-  Thread -> id: 2280 -> priority: 1 
+  Thread -> id: 2b24 -> priority: 1 
+  Thread -> id: 16a0 -> priority: 1 
+  Thread -> id: 17c8 -> priority: 1 
+  Thread -> id: 27b8 -> priority: 1 
