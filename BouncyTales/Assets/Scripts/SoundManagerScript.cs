@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SoundManagerScript : MonoBehaviour {
 
-	public static AudioClip coin, bomb;
+	public static AudioClip coin, bomb; //background;
 	static AudioSource audioSrc;
 
 	// Use this for initialization
@@ -12,6 +12,7 @@ public class SoundManagerScript : MonoBehaviour {
 
 		coin = Resources.Load<AudioClip> ("coin");
 		bomb = Resources.Load<AudioClip> ("bomb");
+		// background = Resources.Load<AudioClip> ("background");
 
 		audioSrc = GetComponent<AudioSource> (); 
 	}
@@ -30,7 +31,9 @@ public class SoundManagerScript : MonoBehaviour {
 		case "bomb":
 			audioSrc.PlayOneShot (bomb);
 			break;
-
 		}
+			
 	}
+		
+
 }

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement; 
+// using UnityEngine.AudioClip;
 
 public class PauseMenu : MonoBehaviour {
 
@@ -12,6 +13,12 @@ public class PauseMenu : MonoBehaviour {
 	private bool isPaused;
 
 	public GameObject pauseMenuCanvas;
+
+	public AudioSource background;
+
+	void Start () {
+
+	}
 
 	void Update()
 	{
@@ -40,6 +47,14 @@ public class PauseMenu : MonoBehaviour {
 	public void NewGame()
 	{
 		SceneManager.LoadScene (startLevel);
+	}
+
+	public void Music()
+	{
+		if (!background.isPlaying) {
+			background.Play ();
+		} else
+			background.Stop ();
 	}
 
 	public void Quit()
