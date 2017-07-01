@@ -7,7 +7,7 @@ Put an 'x' in the square brackets once your Improvement is completed.
 # Improvements - 2
 
 - [] Add highscore menu.
-- [] Adjust friction in such a way that the ball doesn't stick to the sides of the ground.
+- [x] Adjust friction in such a way that the ball doesn't stick to the sides of the ground.
 - [] Add animations for ball for it to change when it rolls, gets hurt, etc.
 - [] End the first level.
 - [] Make two more levels.
